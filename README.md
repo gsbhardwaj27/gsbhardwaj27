@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gsbhardwaj27
-- 👀 I’m interested in Designing complex software system in a simple way, flying machine, science
+- 👀 I’m interested in Designing complex software system in a simple way, Flying Machine, Machine learning, Science
 - 🌱 I’m currently learning Skating with my daughter
 - 💞️ I’m looking to collaborate on code that has potential to create high entropy in the world
 - 📫 How to reach me gsbhardwaj27@gmail.com
